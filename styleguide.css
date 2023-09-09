@@ -1,0 +1,13 @@
+:root {
+  --whitesurface: rgba(255, 255, 255, 1);
+  --x1-primary-color: rgba(21, 84, 246, 1);
+  --stateshover: rgba(0, 0, 0, 0.04);
+  --statesactive: rgba(21, 84, 246, 0.12);
+  --title-headline-font-family: "Roboto-Medium", Helvetica;
+  --title-headline-font-weight: 500;
+  --title-headline-font-size: 20px;
+  --title-headline-letter-spacing: 0.15000000596046448px;
+  --title-headline-line-height: normal;
+  --title-headline-font-style: normal;
+  --drop-shadow-2: 0px 2px 4px 0px rgba(0, 0, 0, 0.24), 0px 4px 8px 0px rgba(0, 0, 0, 0.18);
+}
